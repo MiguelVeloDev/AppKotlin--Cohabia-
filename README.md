@@ -20,14 +20,14 @@ Cohabia es una aplicación nativa para Android diseñada para facilitar la convi
 Puedes ver el concepto visual y el funcionamiento de la interfaz en la siguiente presentación interactiva:
 
 <p align="center">
-  https://prezi.com/p/vztv5zmufo19/?present=1
+  <a href="https://prezi.com/p/vztv5zmufo19/?present=1">Ver presentación interactiva en Prezi</a>
 </p>
 
 ---
 
 ### Documentación
 Para conocer más sobre el desarrollo, la arquitectura y las decisiones técnicas, puedes consultar la memoria completa del proyecto:
-* [Descargar Memoria Técnica (PDF)](docs/EntregaFinal_Miguel_Velo_Arrllaga.pdf)
+* [Descargar Memoria Técnica (PDF)](docs/MemoriaTecnica.pdf)
 
 ---
 
